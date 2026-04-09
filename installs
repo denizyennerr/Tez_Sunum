@@ -1,0 +1,9 @@
+Python 3.10
+pip install tensorflow==2.10
+pip install streamlit
+pip install pyEDFlib
+pip install scikit-learn
+pip install pymupdf
+pip install seaborn
+pip install plotly
+pip install matplotlib
