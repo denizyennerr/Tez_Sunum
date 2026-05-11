@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 import fitz  # PyMuPDF
 
-PDF_PATH = "presentation/Master_Thesis.pdf"
+PDF_PATH = "presentation/Master_Thesis___Epileptic_Seizure_Detection_signed.pdf"
 
 # --- SESSION STATE ---
 # 'thesis_page' key kullanıyoruz — 💻 Presentation.py ile çakışmaması için
